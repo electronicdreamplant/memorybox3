@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: "/about/"
 exclude_from_search: true
